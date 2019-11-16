@@ -5,7 +5,7 @@ Este repositório é destinado ao desenvolvimento de componentes de maneira indi
 
 ## Instalação
 
-O projeto sendo React.js basta clocar o repositório e utilizar o seguinte comando dentro da pasta:
+O projeto sendo React.js basta clonar o repositório e utilizar o seguinte comando dentro da pasta:
 ```bash
 yarn install
 ```
