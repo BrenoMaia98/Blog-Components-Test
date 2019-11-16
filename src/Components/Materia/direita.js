@@ -1,5 +1,6 @@
 import React,{Component} from 'react';
-import './materia.css';
+import './desktop.css';
+import './mobile.css';
 
 export default class Direita extends Component {
   constructor(props) {
